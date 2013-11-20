@@ -60,6 +60,12 @@ GIT
     mediaelement-qualityselector (0.0.1)
 
 GIT
+  remote: https://github.com/avalonmediasystem/mediaelement-skin-avalon
+  revision: b1acbd60754b573a132035373eb1722c8b586bb9
+  specs:
+    mediaelement-skin-avalon (0.0.1)
+
+GIT
   remote: https://github.com/avalonmediasystem/mediaelement_rails.git
   revision: ce84fcca8861a6782a74af3aede4d1789e4ec38e
   specs:
@@ -546,6 +552,7 @@ DEPENDENCIES
   loofah
   media_element_thumbnail_selector!
   mediaelement-qualityselector!
+  mediaelement-skin-avalon!
   mediaelement_rails!
   mediainfo
   meta_request
